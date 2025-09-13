@@ -41,7 +41,7 @@ h1 {
   margin: 0;
   line-height: 1.1;
   padding: 20px 20px 0 20px;
-  margin-bottom: 40px;
+  margin-bottom: 2rem;
   font-size: 3rem;
 }
 
@@ -81,7 +81,7 @@ h2 {
 
   h1 {
     font-size: 8.8vw;
-    line-height: 3.5vw;
+    line-height: 1.1;
     margin-bottom: 20px;
   }
 
